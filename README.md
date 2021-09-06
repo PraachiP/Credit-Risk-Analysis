@@ -1,5 +1,4 @@
-# Credit-Risk-Analysis
-Credir Card Fraud Detection
+# Credit-Risk-Analysis --  Credir Card Fraud Detection
 
 Two Datasets are used :-
 
